@@ -7,7 +7,7 @@ Computer Engineering Student
 I am an Computer Engineering student at Chulalongkorn University with a passion for technology and problem-solving. As someone deeply interested in the intersection of cybersecurity, web development, and data engineering, I am eager to contribute my skills and knowledge to innovative projects. I pride myself on being a quick learner, always ready to explore new concepts and adapt to dynamic environments. My passion for technology drives me to stay up-to-date with industry trends and continuously improve my abilities.
 
 * 🌍  I'm based in Bangkok, Thailand
-* 🖥️  See my portfolio at [MyPortfolio](http://drive.google.com/drive/u/1/folders/14xZOF0Z5AkRArnPu3gfPj1gxcpc5Tu9e)
+* 🖥️  See my portfolio at [MyPortfolio](https://portfolio-nextjs-rachanonnns-projects.vercel.app/)
 * ✉️  You can contact me at [rachanonnn2004@gmail.com](mailto:rachanonnn2004@gmail.com)
 
 ### Skills
