@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnV4cTN1NDB0eWlxYjByNTdwZGQ5OWsxejllcTQ2dWwzMDNkcjc2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BVBYObUCxuEUlohRSh/giphy.webp" width="100"/>
   <div id="badges">
       <a href="https://mail.google.com/mail/u/2/?fs=1&tf=cm&to=rachanonnn2004@gmail.com&su=Subject&body=Body+Text">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
@@ -12,7 +12,6 @@
       </a>
    </div>
    <img src="https://komarev.com/ghpvc/?username=rachanonnn&style=flat-square&color=blue" alt=""/>
-
    <h1>
       hi there
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
