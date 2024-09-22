@@ -19,13 +19,13 @@
 
 ---
 
-### 👨‍💻 About Me :
+### About Me :
 
-- 🔭 I am an Computer Engineering student at Chulalongkorn University with a passion for technology and problem-solving. As someone deeply interested in the intersection of cybersecurity, web development, and data engineering, I am eager to contribute my skills and knowledge to innovative projects. I pride myself on being a quick learner, always ready to explore new concepts and adapt to dynamic environments. My passion for technology drives me to stay up-to-date with industry trends and continuously improve my abilities.
+- I am an Computer Engineering student at Chulalongkorn University with a passion for technology and problem-solving. As someone deeply interested in the intersection of cybersecurity, web development, and data engineering, I am eager to contribute my skills and knowledge to innovative projects. I pride myself on being a quick learner, always ready to explore new concepts and adapt to dynamic environments. My passion for technology drives me to stay up-to-date with industry trends and continuously improve my abilities.
 
-- 🌍  I'm based in Bangkok
-- 🖥️  See my portfolio at [MyPortfolio](http://https://portfolio-nextjs-rachanonnns-projects.vercel.app/)
-- ✉️  You can contact me at [rachanonnn2004@gmail.com](mailto:rachanonnn2004@gmail.com)
+-  I'm based in Bangkok
+-  See my portfolio at [MyPortfolio](http://https://portfolio-nextjs-rachanonnns-projects.vercel.app/)
+-  You can contact me at [rachanonnn2004@gmail.com](mailto:rachanonnn2004@gmail.com)
 
 ### 🛠️ Languages and Tools
 
@@ -35,7 +35,7 @@
 
 ---
 
-### 🔥 My Stats :
+### My Stats :
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rachanonnn&theme=dark" alt="GitHub Streak" /></a>
 
