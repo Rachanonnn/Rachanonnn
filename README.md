@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnV4cTN1NDB0eWlxYjByNTdwZGQ5OWsxejllcTQ2dWwzMDNkcjc2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BVBYObUCxuEUlohRSh/giphy.webp" width="100"/>
+<!--   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnV4cTN1NDB0eWlxYjByNTdwZGQ5OWsxejllcTQ2dWwzMDNkcjc2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BVBYObUCxuEUlohRSh/giphy.webp" width="100"/> -->
   <div id="badges">
       <a href="https://mail.google.com/mail/u/2/?fs=1&tf=cm&to=rachanonnn2004@gmail.com&su=Subject&body=Body+Text">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
@@ -24,6 +24,7 @@
 - I am an Computer Engineering student at Chulalongkorn University with a passion for technology and problem-solving. As someone deeply interested in the intersection of cybersecurity, web development, and data engineering, I am eager to contribute my skills and knowledge to innovative projects. I pride myself on being a quick learner, always ready to explore new concepts and adapt to dynamic environments. My passion for technology drives me to stay up-to-date with industry trends and continuously improve my abilities.
 
 -  I'm based in Bangkok
+-  Currently learning Go!!
 -  See my portfolio at [MyPortfolio](http://https://portfolio-nextjs-rachanonnns-projects.vercel.app/)
 -  You can contact me at [rachanonnn2004@gmail.com](mailto:rachanonnn2004@gmail.com)
 
